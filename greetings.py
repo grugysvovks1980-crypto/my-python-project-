@@ -12,3 +12,5 @@ for name in names:
 
     print(f"Привіт, {name}! Поточний час: {current_time}")    
 # Локальна зміна 1
+# Віддалена зміна 2
+
