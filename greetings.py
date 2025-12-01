@@ -9,4 +9,6 @@ current_time = datetime.datetime.now().strftime("%H:%M:%S")
 
 for name in names:
 # Рядок 9: ПЕРЕВІРТЕ: Тут мають бути 4 пробіли
+
     print(f"Привіт, {name}! Поточний час: {current_time}")    
+# Локальна зміна 1
